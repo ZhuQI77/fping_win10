@@ -15,7 +15,7 @@ _Website_:
 _Mailing-list_:  
   https://groups.google.com/group/fping-users
 
-## Installation
+## Installation in cygwin
 
 If you want to install fping from source, proceed as follows:
 
@@ -23,9 +23,8 @@ If you want to install fping from source, proceed as follows:
    (only if you got the source from Github).
 1. Run `./configure` with the correct arguments.
    (see: `./configure --help`)
-2. Run `make; make install`.
-3. Make fping either setuid, or, if under Linux:
-   `sudo setcap cap_net_raw+ep fping`
+2. Run `make`.
+3. fping.exe generated to the folder src directory.
 
 ## Usage
 
