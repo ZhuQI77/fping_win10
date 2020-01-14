@@ -1,4 +1,4 @@
-该项目基于https://github.com/schweikert/fping 实现。
+该项目基于https://github.com/schweikert/fping develop分支的commit aba04241c7c24fa08ce29bc0d8a4ed5b1110ed6d 实现。
 # fping
 
 fping is a program to send ICMP echo probes to network hosts, similar to ping,
